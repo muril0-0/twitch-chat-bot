@@ -1,0 +1,9 @@
+{
+  "name": "backend-chat-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  }
+}
