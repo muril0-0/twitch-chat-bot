@@ -5,6 +5,11 @@ Este projeto foi criado em Javascript puro, com o objetivo de se comunicar com o
 _This project was made in Javascript through React Js framework, with goal of coment in [Twitch](https://www.twitch.tv/) chat._
 
 
+## Dpendências / Dependencies
+
+[NodeJs](https://nodejs.org/en/)
+
+
 ## 🚩 Começando / Getting Started
 
 📜 __Scripts Disponíveis / Available Scripts__ 
